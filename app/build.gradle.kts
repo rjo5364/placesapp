@@ -26,7 +26,7 @@ android {
         buildConfigField("String", "MAPS_API_KEY", "\"${mapsApiKey ?: ""}\"")
 
 
-        //AIzaSyCAj9WeljAmTxaM5xW3AKqcPlldt6V-2-Y
+
     }
     buildFeatures {
         buildConfig = true
