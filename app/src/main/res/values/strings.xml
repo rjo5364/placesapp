@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Places App</string>
+
+    <string-array name="preferences">
+        <item>park</item>
+        <item>cafe</item>
+        <item>library</item>
+    </string-array>
+
+
+        <string name="open">Open Navigation Drawer</string>
+        <string name="close">Close Navigation Drawer</string>
+
+
+</resources>
