@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "427574774020",
+    "project_id": "placesapp-f0710",
+    "storage_bucket": "placesapp-f0710.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427574774020:android:3fd8cc32a0ed533ba7a851",
+        "android_client_info": {
+          "package_name": "edu.psu.sweng888.placesapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3KeIE8rlgWUkGocE0q-5VYMcDTVl5ulg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
